@@ -4,7 +4,7 @@
 }
 
 body{
-    background-image: url("https://as1.ftcdn.net/jpg/00/91/53/24/500_F_91532497_d4haFnoUVlrxAxcIn9eqw3IDdO9bxEAQ.jpg");
+    background-image: url("IMAGES/img1.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -12,16 +12,10 @@ body{
 
 .form{
     background-color: aqua;
-    margin-left: 0px;
-    margin-right: 0px; 
-    width: 50%;
-
-}
-legend{
-    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 0px; 
 }
 
-h1{
-
+h1,legend{
     text-align: center;
 }
