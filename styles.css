@@ -1,0 +1,21 @@
+#audio{
+    height: 0;
+    width: 0;
+}
+
+body{
+    background-image: url("https://as1.ftcdn.net/jpg/00/91/53/24/500_F_91532497_d4haFnoUVlrxAxcIn9eqw3IDdO9bxEAQ.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.form{
+    background-color: aqua;
+    height: 50%;
+    width: 50%;
+}
+
+.form>in put{
+    width: 5px;
+}
