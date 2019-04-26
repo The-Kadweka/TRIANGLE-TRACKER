@@ -12,10 +12,16 @@ body{
 
 .form{
     background-color: aqua;
-    height: 50%;
+    margin-left: 0px;
+    margin-right: 0px; 
     width: 50%;
+
+}
+legend{
+    text-align: center;
 }
 
-.form>in put{
-    width: 5px;
+h1{
+
+    text-align: center;
 }
