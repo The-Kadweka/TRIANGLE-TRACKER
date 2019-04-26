@@ -4,18 +4,9 @@
 }
 
 body{
-    background-image: url("IMAGES/img1.jpg");
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
+    background-color: black;
 }
 
-.form{
-    background-color: aqua;
-    margin-top: 0px;
-    margin-bottom: 0px; 
-}
-
-h1,legend{
-    text-align: center;
+h1,h3{
+    color: orangered;
 }
