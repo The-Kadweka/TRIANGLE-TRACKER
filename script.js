@@ -22,10 +22,10 @@ function myFunction(){
     function myAnswer(){
         var ANSWER=parseInt(document.getElementById('answer').value);
 
-        if(ANSWER===20){
+        if(ANSWER===24){
             document.getElementById("good").innerHTML="WELL DONE!";
         }
-        else if(ANSWER >20 || ANSWER<20){
+        else if(ANSWER >24 || ANSWER<24){
             document.getElementById("good").innerHTML="KEEP TRYING!";
         }
     }
