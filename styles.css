@@ -12,30 +12,46 @@
   }
   .flex>input{
       border-radius: 4px;
-      padding-top: 20px;
+      padding-top: 15px;
   }
   body{
      background-color: chartreuse;
   }
 
   img{
-      height: 250px;
-      width: 250px;
+      height: 200px;
+      width: 200px;
   }
   .form{
       background-color: #ffBB00;
-      border-radius: 30px;
+      border-radius: 25px;
       height: 40%;
   }
  
   .form>inpute{
       width: 10%;
-      margin: px; 
+      margin: 8px; 
   }
   .game{
       padding-top: 30px;
   }
 
   .card{
-      width: 30%;
+      width: 18em;
+      background-color: #ffBB00;
+
+  }
+
+  .card>input,button{
+      border-radius: 5px;
+      display: inline;
+      padding: 5px;
+  }
+
+  h5{
+    color: orangered;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 10px;
+    margin-bottom: 10px;
   }

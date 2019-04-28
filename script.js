@@ -11,11 +11,13 @@ function myFunction(){
       }
       else if(length1 !== length2 || length1 !== length3 || length3 !== length2) { 
     
-          document.getElementById("come").innerText="SCALENE TRIANGLE";
+          document.getElementById("come").innerText="SCALENE TRIANGLE!-none of the sides is equal";
        }
        else if(length1 === length2 && length2===length3 && length1===length3){
-           document.getElementById("come").innerText="EQUILATERAL TRIANGLE!";
+           document.getElementById("come").innerText="EQUILATERAL TRIANGLE!-all sides are equal";
        }
+       else if(length1 === length2 || length2===length3 || length1===length3){
+        document.getElementById("come").innerText="ISOSCELES TRIANGLE!-two sides are equal!"
     }
 
 
@@ -29,3 +31,4 @@ function myFunction(){
             document.getElementById("good").innerHTML="KEEP TRYING!";
         }
     }
+}
