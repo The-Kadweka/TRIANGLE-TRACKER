@@ -17,3 +17,15 @@ function myFunction(){
            document.getElementById("come").innerText="EQUILATERAL TRIANGLE!";
        }
     }
+
+
+    function myAnswer(){
+        var ANSWER=parseInt(document.getElementById('answer').value);
+
+        if(ANSWER===20){
+            document.getElementById("good").innerHTML="WELL DONE!";
+        }
+        else if(ANSWER >20 || ANSWER<20){
+            document.getElementById("good").innerHTML="KEEP TRYING!";
+        }
+    }
