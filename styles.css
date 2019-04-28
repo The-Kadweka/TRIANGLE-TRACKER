@@ -20,4 +20,13 @@
   img{
       height: 250px;
   }
+  .form{
+      background-color: blue;
+      border-radius: 30px;
+      height: 40%;
+  }
  
+  .form>inpute{
+      width: 10%;
+      margin: px; 
+  }
