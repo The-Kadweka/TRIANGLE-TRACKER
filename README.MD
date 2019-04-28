@@ -7,11 +7,11 @@ For you to make use of this app,you need to have a smartphone the put on your da
 ## Known Bugs
 {Are there issues that have not yet been resolved that you want to let users know you know? Outline any issues that would impact use of your application. Share any workarounds that are in place. }
 ## Technologies Used
-+HTML
-+CSS
-+JAVASCRIPT
++ html
++ css
++ javascript
 Language used are three where html was used for the code to be executed of the server,css was used to style and add images tothe page and java script was used to set the conditions and make it run
-## contacts
-+husseinkatana17@gmail.com
-+0772328059
+### contacts
++ husseinkatana17@gmail.com
++ 0772328059
 
